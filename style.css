@@ -19,6 +19,7 @@
     align-items: center;
     display: flex;
     height: auto;
+    margin-top: 2em;
 }
 
 .container__home__div {
